@@ -122,5 +122,5 @@ def main():
 		st.text("Built with Streamlit & Pandas")
 
 
-if __name__ == '__main__':
-	main()
+#if __name__ == '__main__':
+	#main()
